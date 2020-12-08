@@ -1,0 +1,11 @@
+DONE---------------------
+-comente opciones del menu que no necesito
+
+
+
+
+TODO----------------------
+cambiar nombre de variables y funciones del todo el codigo
+borrar opciones del menu que no necesito
+	asi como sus funciones y todo lo relacionado
+QUITAR ClS para que se mantega el historial del chat

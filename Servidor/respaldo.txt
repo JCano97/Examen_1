@@ -1,0 +1,22 @@
+--------------------------------
+2020-12-07 20:09:33 -> Servidor Iniciado
+2020-12-07 20:09:44 - Ingreso al servido: lalo
+2020-12-07 20:09:50 - Ingreso al servido: cano
+2020-12-07 20:10:02 - Ingreso al servido: luis
+2020-12-07 20:10:09 - lalo dice: que onda
+2020-12-07 20:10:12 - lalo dice: como andan
+2020-12-07 20:10:19 - cano dice: todo chido
+2020-12-07 20:10:24 - cano dice: sube el archivo
+2020-12-07 20:10:30 - lalo dice: simon ahi va
+2020-12-07 20:10:43 - Se agrego un nuevo archivo al servidor: factorial.txt
+2020-12-07 20:10:49 - lalo dice: ya esta 
+2020-12-07 20:10:58 - lalo dice: descargenlo
+2020-12-07 20:11:04 - cano dice: aver
+2020-12-07 20:11:15 - Se solicito este archivo del servidor: factorial.txt
+2020-12-07 20:11:16 - Se envio un archivo: factorial.txt
+2020-12-07 20:11:22 - cano dice: ya esta
+2020-12-07 20:11:28 - cano dice: bye
+2020-12-07 20:11:30 - cano salio del servidor. . .
+2020-12-07 20:11:38 - lalo dice: sale,adios
+2020-12-07 20:11:41 - lalo salio del servidor. . .
+2020-12-07 20:11:46 - luis salio del servidor. . .
